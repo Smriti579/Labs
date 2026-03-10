@@ -1,0 +1,22 @@
+import java.util.TreeSet;
+public class TreeSetOperations {
+    public static void main(String[] args) {
+        TreeSet<Integer> numbers = new TreeSet<>();
+
+        // (a) Adding elements
+        numbers.add(50);
+        numbers.add(10);
+        numbers.add(30);
+        numbers.add(20);
+        numbers.add(40);
+        System.out.println("TreeSet elements: " + numbers);
+
+        // (b) Finding smallest and largest elements
+        System.out.println("Smallest element: " + numbers.first());
+        System.out.println("Largest element: " + numbers.last());
+
+        // (c) Removing a specific element
+        numbers.remove(30);
+        System.out.println("After removing 30: " + numbers);
+    }
+}
