@@ -4,7 +4,7 @@ This repository contains implementations of **Natural Language Processing (NLP) 
 
 All experiments are implemented in a **single Jupyter Notebook**:
 
-`NLP/nlp.py`
+[`NLP/nlp.py`](https://github.com/Smriti579/Labs/blob/1f1405a95690d7bbf6e4204bfacf110a35b5a566/NLP/nlp.py)
 
 The notebook includes theoretical explanations, implementation code, and results for each experiment.
 
