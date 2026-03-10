@@ -3,6 +3,7 @@
 This repository contains basic Java programs that demonstrate fundamental programming concepts.
 
 List of Programs:
+
 1.Find the largest and smallest number in an array
 
 2.Check if a number is odd or even
