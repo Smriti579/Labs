@@ -4,7 +4,7 @@ This repository contains implementations of **Natural Language Processing (NLP) 
 
 All experiments are implemented in a **single Jupyter Notebook**:
 
-`NLP_Lab_Experiments.ipynb`
+`NLP/nlp.py`
 
 The notebook includes theoretical explanations, implementation code, and results for each experiment.
 
