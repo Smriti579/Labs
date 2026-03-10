@@ -1,4 +1,4 @@
-# Java-Mod-1
+# Java-Assignment-1
 
 This repository contains basic Java programs that demonstrate fundamental programming concepts.
 
