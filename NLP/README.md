@@ -1,4 +1,4 @@
-# Natural Language Processing Lab Experiments
+# Natural Language Processing Lab
 
 This repository contains implementations of **Natural Language Processing (NLP) laboratory experiments** performed as part of the Artificial Intelligence coursework.
 
